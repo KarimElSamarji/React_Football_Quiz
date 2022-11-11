@@ -1,0 +1,340 @@
+[
+    {
+        "diffi":"Medium",
+        "question": "Which player scored the fastest hat-trick in the Premier League ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Harry Kane",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Halaand",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Levandowski",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Mane",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "diffi":"Hard",
+        "question": "Which player, with 653 games, has made the most Premier League appearances?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Gareth Barry",
+                "isCorrect": true
+            },
+            {
+                "id": 1,
+                "text": "Aguero",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Wayn Roney",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "De Bruyn",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Which team won the first Premier League title ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Manchester City",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Liverpool",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Manchester United",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Spurs Totenham",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Which country won the first ever World Cup in 1930 ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Uruguay",
+                "isCorrect": true
+            },
+            {
+                "id": 1,
+                "text": "Germany",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "France",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Brazil",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Which country has won the most World Cups ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Brazil",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Germany",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "France",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Spain",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Which country has appeared in three World Cup finals, but never won the competition ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Brazil",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Germany",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Netherland",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Spain",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Easy",
+        "question": "Which club has won the most Champions League titles ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "AC Milan",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Real Madrid",
+                "isCorrect": true
+            },
+            {
+                "id": 2,
+                "text": "Barcelona",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Manchester United",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Who is the only player to win the Champions League with three different clubs ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Cristiano Ronaldo",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Drogba",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Totti",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Clarence Seedorf",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Who is the Champions League's top goalscorer of all time ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Leonel Messi",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Karim Benzema",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Cristiano Ronaldo",
+                "isCorrect": true
+            },
+            {
+                "id": 3,
+                "text": "Clarence Seedorf",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "Which player holds the record for most Champions League winners' medals ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Cristiano Ronaldo",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "Karim Benzema",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Clarence Seedorf",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Fransisco Gento",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "diffi":"Hard",
+        "question": "In which year was the first European Championship held ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "1960",
+                "isCorrect": true
+            },
+            {
+                "id": 1,
+                "text": "1955",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "1970",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "1977",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "The Euro 2000 final between France and Italy was decided by Golden Goal. Which player scored the goal ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Henry",
+                "isCorrect": false
+            },
+            {
+                "id": 1,
+                "text": "David Trezeguet",
+                "isCorrect": true
+            },
+            {
+                "id": 2,
+                "text": "Zidane",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Dugarry",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "diffi":"Medium",
+        "question": "With 365 goals, who holds the record for top Bundesliga goalscorer of all time ?",
+        "options": [
+            {
+                "id": 0,
+                "text": "Muller",
+                "isCorrect": true
+            },
+            {
+                "id": 1,
+                "text": "Levandowski",
+                "isCorrect": false
+            },
+            {
+                "id": 2,
+                "text": "Gotze",
+                "isCorrect": false
+            },
+            {
+                "id": 3,
+                "text": "Gnabry",
+                "isCorrect": false
+            }
+        ]
+    }
+]

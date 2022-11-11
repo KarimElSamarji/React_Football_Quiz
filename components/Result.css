@@ -1,0 +1,33 @@
+.div_container {
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position:relative;
+}
+h1 {
+    color : white
+}
+.score {
+    font-size: 50px;
+    font-weight: bold;
+    color: #FF6A3D;
+}
+.back_but{
+    background-color: #FF6A3D;
+    border: none;
+    padding: 15px;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    transition: all 0.5s;
+
+}
+.back_but:hover {
+    box-shadow: 5px 4px #b54929;
+    transform: scale(1.1);
+    border: 1px solid #b54929;
+}

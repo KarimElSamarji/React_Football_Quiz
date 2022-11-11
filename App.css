@@ -1,0 +1,32 @@
+.App {
+  background: #1A2238;
+  display: flex;
+  flex: 1;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  flex-direction: column;
+}
+
+.title_cont {
+  display: flex;
+  flex:0.08;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+.title1 {
+  color: white;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+  font-size: 35px;
+}
+.title2 {
+  color: #FF6A3D;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+  font-size: 35px;
+}
+
+

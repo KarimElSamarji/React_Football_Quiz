@@ -1,0 +1,207 @@
+.intro {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.intro_desc {
+  color: white;
+  align-items: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.high {
+  color: #9DAAF2;
+  margin-left: 10px;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.intro_body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  position: fixed;
+}
+
+.intro_wall {
+  display: flex;
+  flex: 0.5;
+  justify-content: center;
+  align-items: center;
+}
+
+.wall {
+  width: 380px;
+  height: 530px;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 5px 7px #702f1b;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+}
+
+.intro_start {
+  display: flex;
+  flex: 0.5;
+  padding-left: 3%;
+  flex-direction: column;
+}
+
+.label_cont {
+  width: fit-content;
+}
+
+.label {
+  color: #FF6A3D;
+  border-bottom: 3px solid #F4DB7D;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.field {
+  width: 68%;
+  height: 56px;
+  border-radius: 4px;
+  position: relative;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: 0.3s all;
+}
+
+.field:hover {
+  background-color: rgba(255, 255, 255, 0.45);
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.05);
+}
+
+.field.focussed input {
+  padding: 24px 16px 8px 16px;
+}
+
+.field.focussed input+label {
+  top: 4px;
+  opacity: 1;
+  color: #28cc70;
+}
+
+.field.locked {
+  pointer-events: none;
+}
+
+.field input {
+  width: 100%;
+  height: 56px;
+  position: relative;
+  padding: 0px 16px;
+  border: none;
+  border-radius: 4px;
+  font-family: monospace;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+  background-color: transparent;
+  color: #F4DB7D;
+  outline: none;
+  box-shadow: 0px 4px 20px 0px transparent;
+  transition: 0.3s background-color ease-in-out, 0.3s box-shadow ease-in-out, 0.1s padding ease-in-out;
+}
+
+.field input::-webkit-input-placeholder {
+  color: #e1d39f;
+}
+
+.field input::-moz-placeholder {
+  color: #F4DB7D;
+}
+
+.field input:-ms-input-placeholder {
+  color: #F4DB7D;
+}
+
+.field input:-moz-placeholder {
+  color: #F4DB7D;
+}
+
+.input_select {
+  border: none;
+  font-family: monospace;
+  padding: 0px 16px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+  background-color: transparent;
+  color: #F4DB7D;
+  width: 100%;
+  height: 100%;
+}
+
+.input_select option {
+  background: #9DAAF2;
+}
+
+.input_select option :hover {
+  background: #9DAAF2;
+}
+
+.start_div {
+  width: 80%;
+  margin-top: 10%;
+  display: flex;
+  justify-content: center;
+  padding: 2%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.check_but {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border: none;
+  background: #9DAAF2;
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 15px;
+  box-shadow: 5px 4px #7079ac;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.check_but:hover {
+  background: #7079ac;
+  box-shadow: 5px 4px #3e4360;
+  transform: scale(1.1);
+}
+
+.start_but {
+  height: 40px;
+  width: 100px;
+  border-radius: 5px;
+  border: none;
+  background: #FF6A3D;
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 15px;
+  box-shadow: 5px 4px #903d23;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.start_but:hover {
+  background: #f65c2e;
+  box-shadow: 5px 4px #903d23;
+  transform: scale(1.1);
+}
+
+.error {
+  color: #FF6A3D;
+  font-size: 18px;
+}
